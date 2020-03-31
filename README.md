@@ -1,4 +1,5 @@
 # convert_hex_to_rgb
+[![Gem Version](https://badge.fury.io/rb/convert_hex_to_rgb.svg)](https://badge.fury.io/rb/convert_hex_to_rgb)
 
 convert_hex_to_rgb is a Ruby library to provide basic HEX to RGB color conversion.
 
