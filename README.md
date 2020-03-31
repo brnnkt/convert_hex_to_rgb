@@ -5,7 +5,7 @@ convert_hex_to_rgb is a Ruby library to provide basic HEX to RGB color conversio
 ## Install
 
 ```
-gem install hex_to_rgb
+gem install convert_hex_to_rgb
 ```
 ## Usage
 
